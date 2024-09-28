@@ -1,0 +1,88 @@
+.box1 {
+    border: 5px solid black;
+    background-color: rgb(165, 27, 27);
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 40px;
+    font-weight: bolder;
+    padding: 30px;
+    position: relative;
+}
+.h1 {
+    font-weight: bolder;
+    font-family: 'Gill Sans', 'Gill Sans MT', 'Calibri', 'Trebuchet MS', sans-serif;
+}
+.a1  {
+    color: black;
+    text-decoration: none;
+}
+.a2 {
+    color: black;
+    text-decoration: none;
+}
+.a3  {
+    color: black;
+    text-decoration: none;
+}
+.a4  {
+    color: black;
+    text-decoration: none;
+}
+.a5  {
+    color: black;
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(241, 241, 241);
+    padding: 20px;
+}
+.box2 {
+    display: flex;
+    border: 3px solid black;
+    padding: 10px 3px;
+}
+
+.ul {
+    font-size: 18px;
+    background-color: black;
+    color: beige;
+    margin-top: 2px;
+padding-top: 10px;
+}
+.para {
+    font-family: Impact, 'Haettenschweiler', 'Arial Narrow Bold', sans-serif;
+    font-size: 23px;
+    letter-spacing: 3px;
+}
+.box3 {
+    background-color: black;
+    color: white;
+    font-size: 18px;
+    line-height: 25px;
+    margin: 12px 5px;
+    padding: 5px 7px;
+    border: 3px solid red;
+}
+.box4 {
+    display: flex;
+    border: 3px solid black;
+    padding: 30px;
+
+}
+.box5 {
+    margin-left: 7px;
+    font-size: 23px;
+    font-weight: 800;
+
+}
+.a7 {
+    border: 4px solid rgb(165, 27, 27);
+    padding-top: 35px;
+}
+.a6 {
+    background-color: black;
+    font-size: 17px;
+    color: firebrick;
+    padding: 10px 10px;
+    text-decoration: none;
+}

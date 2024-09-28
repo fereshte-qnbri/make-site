@@ -1,15 +1,17 @@
 * {
-    background-color: cadetblue;
-    margin: 3px;
+    background-color: rgb(141, 177, 179);
 }
     
 
 .box1 {
+    background-color: rgba( rgba(44, 134, 218, 0.493),0/5 );
     display: flex;
     justify-content: space-evenly;
     padding: 25px;
-    margin-top: 20px;
     font-size: 35px;
+    position: fixed;
+    right: 0;
+    left: 0;
 
     
 }
@@ -24,8 +26,10 @@ text-decoration: none;
 .box2 {
     display: flex;
     justify-content: space-between;
-    margin: 15px;
+    margin-top: 100px;
+    margin-left: 50px;
     padding: 10px;
+    gap: 40px;
    
 }
 .photo1{
@@ -54,13 +58,20 @@ text-decoration: none;
     justify-content: space-around;
     font-size: 35px;
     color: rgb(6, 49, 6);
-    background-color: rgb(6, 76, 206);
+    background-color: rgb(79, 131, 228);
     font-weight: bolder;
 }
 
 .box4 {
     font-size: 30px;
-    margin: 50px 300px;
+    margin: 20px 300px;
     padding:5px;
+    background-color: burlywood;
+ }
+ .para {
+    font-size: 70px;
+    text-align: center;
+    font-weight: bolder;
+    background-color: lightgrey;
  }
     
